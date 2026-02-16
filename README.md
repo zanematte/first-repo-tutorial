@@ -1,0 +1,1 @@
+Una semplice repository creata per capire come usare GitHub
